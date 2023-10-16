@@ -1,0 +1,2 @@
+la tarea trata de crearte tu primer directorio en github, primero te dice como crearte la cuenta y que señales que estas como estudiante.
+Después tienes que crear un repositorio, con un archivo README.txt donde hay una descripción de lo que hay que hacer, y un archivo .py en el que tiene que imprimirte por pantalla "Hola mundo"
